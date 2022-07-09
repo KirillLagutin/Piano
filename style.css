@@ -5,6 +5,11 @@
 }
 body {
     background: #00f;
+    font-family: sans-serif;
+}
+.header {
+    text-align: center;
+    margin-top: 100px;
 }
 .piano {
     width: 700px;
@@ -21,7 +26,6 @@ body {
     box-shadow: inset -1px -1px 5px #000;
     text-align: center;
     font-size: 30px;
-    font-family: sans-serif;
     font-weight: bold;
     background: #fff;
     user-select: none;
